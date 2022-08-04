@@ -50,7 +50,6 @@
 		A5B8BE3D2890AAE60040145D = {
 			isa = PBXGroup;
 			children = (
-				A5B8BE75289AC63A0040145D /* ProblemFormViewController.swift */,
 				A5B8BE482890AAE60040145D /* AgostinhoDanielaLuizViniciusWesley */,
 				A5B8BE472890AAE60040145D /* Products */,
 			);
@@ -198,6 +197,7 @@
 		A5B8BE74289AC6120040145D /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				A5B8BE75289AC63A0040145D /* ProblemFormViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
